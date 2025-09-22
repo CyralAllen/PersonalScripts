@@ -1,4 +1,4 @@
-# This is a ReaMe file for my Personalized scripts and I need to learn how to write .md
+# This is a ReadMe file for my Personalized scripts
 This is how to use md
 - learn how to do lists
 ```
